@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "recipe-book-9ec21"
+  },
+  "targets": {
+    "universal-d4c4b": {
+      "hosting": {
+        "recipe": [
+          "universal-d4c4b"
+        ]
+      }
+    }
+  }
+}
